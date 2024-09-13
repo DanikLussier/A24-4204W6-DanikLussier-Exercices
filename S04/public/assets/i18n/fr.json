@@ -1,0 +1,10 @@
+{
+  "i18n": {
+      "argent": "Votre argent : {{x}}$",
+      "parier": "Parier 5$ sur un numéro",
+      "parierR": "Parier 5$ sur rouge",
+      "parierN": "Parier 5$ sur noir",
+      "titre": "Roulette Bilingue",
+      "avertissement": "Ne pas jouer si vous êtes facilement étourdi(e)"
+  }
+}

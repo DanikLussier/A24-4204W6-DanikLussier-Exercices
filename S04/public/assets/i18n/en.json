@@ -1,0 +1,10 @@
+{
+  "i18n":{
+    "argent": "Your money : ${{x}}",
+    "parier": "Bet 5$ on a number",
+    "parierR": "Bet 5$ on red",
+    "parierN": "Bet 5$ on black",
+    "titre": "Bilingual roulette",
+    "avertissement": "Do not play if you’re easily dizzy"
+  }
+}
