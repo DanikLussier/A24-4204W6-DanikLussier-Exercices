@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2290726\\Desktop\\A24-4204W6-DanikLussier-Exercices\\S08\\labo8_api\\Labo8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E086021A-9C61-420C-B2B2-ED3C9DC55473}|Labo8.csproj|c:\\users\\2290726\\desktop\\a24-4204w6-daniklussier-exercices\\s08\\labo8_api\\labo8\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E086021A-9C61-420C-B2B2-ED3C9DC55473}|Labo8.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E086021A-9C61-420C-B2B2-ED3C9DC55473}|Labo8.csproj|c:\\users\\2290726\\desktop\\a24-4204w6-daniklussier-exercices\\s08\\labo8_api\\labo8\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E086021A-9C61-420C-B2B2-ED3C9DC55473}|Labo8.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E086021A-9C61-420C-B2B2-ED3C9DC55473}|Labo8.csproj|c:\\users\\2290726\\desktop\\a24-4204w6-daniklussier-exercices\\s08\\labo8_api\\labo8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E086021A-9C61-420C-B2B2-ED3C9DC55473}|Labo8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-4204W6-DanikLussier-Exercices\\S08\\labo8_api\\Labo8\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-4204W6-DanikLussier-Exercices\\S08\\labo8_api\\Labo8\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:02:52.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-4204W6-DanikLussier-Exercices\\S08\\labo8_api\\Labo8\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-4204W6-DanikLussier-Exercices\\S08\\labo8_api\\Labo8\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:49:26.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-4204W6-DanikLussier-Exercices\\S08\\labo8_api\\Labo8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-4204W6-DanikLussier-Exercices\\S08\\labo8_api\\Labo8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:44:24.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
