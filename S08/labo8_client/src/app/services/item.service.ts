@@ -63,7 +63,14 @@ export class ItemService {
   //    Delete
   // ▀▀▀▀▀▀▀▀▀▀▀▀
   async delete(id: number): Promise<void> {
+    var item: Item | null = null
+    let x = await lastValueFrom(this.http.post(domain + "/api/destroy/" + id, null)).then((val) => {
+      console.log(val)
+    }).catch((err) => {
+      console.log(err)
+    })
 
+    console.log(x)
   }
 
   // ▄▄▄▄▄▄▄▄▄▄▄▄
@@ -85,7 +92,11 @@ export class ItemService {
   // ▀▀▀▀▀▀▀▀▀▀▀▀
   async nuke(): Promise<void> {
 
-
+    await lastValueFrom(this.http.delete(domain + "/api/destroyAll")).then((val) => {
+      console.log("All items succesfully deleted")
+    }).catch((err) => {
+      console.log("Error while deleting all items")
+    })
 
   }
 

@@ -68,12 +68,12 @@ export class AppComponent {
     // Garder ceci en début de fonction
     if (this.itemId == null) return;
 
-
+    this.itemService.delete(this.itemId)
 
   }
 
   async deleteAllItems(): Promise<void> {
-
+    this.itemService.nuke()
 
   }
 

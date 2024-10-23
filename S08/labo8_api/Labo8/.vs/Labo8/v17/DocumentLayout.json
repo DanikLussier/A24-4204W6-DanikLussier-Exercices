@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
               "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-4204W6-DanikLussier-Exercices\\S08\\labo8_api\\Labo8\\Controllers\\ItemsController.cs",
               "RelativeToolTip": "Controllers\\ItemsController.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFgAAAARAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAwE8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T17:02:52.221Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Models\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:49:26.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T16:49:26.514Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:44:24.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T16:44:24.347Z"
             }
           ]
         }

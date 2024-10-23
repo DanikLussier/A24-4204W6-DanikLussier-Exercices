@@ -101,6 +101,18 @@ namespace Labo8.Controllers
             return NoContent();
         }
 
+        // DELETE: api/Items
+        [HttpDelete]
+        [Route("/api/destroyAll")]
+        public async Task<IActionResult> DeleteAll(int id)
+        {
+
+            _context.Item.RemoveRange(_context.Item);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
         private bool ItemExists(int id)
         {
             return _context.Item.Any(e => e.Id == id);
