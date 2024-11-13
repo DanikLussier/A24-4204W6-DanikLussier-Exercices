@@ -2,6 +2,8 @@
 {
     public class Picture
     {
-        // salut ça va ? ta session se passe bien ? tu prends soin de toi ? 
+        public int Id { get; set; }
+        public string? FileName { get; set; }
+        public string? MimeType { get; set; }
     }
 }
